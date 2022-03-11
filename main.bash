@@ -13,3 +13,4 @@ source ~/Shell-Scripts/java/java-alias.bash
 source ~/Shell-Scripts/utils/tab.sh
 
 echo "${BLUE} -< LOAING >- ${NC} Useful Shell Scripts"
+nvm use
